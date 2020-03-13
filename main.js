@@ -7,7 +7,7 @@ function search() {
   
   for (i = 0; i < cards.length; i++) {
     a = cards[i].children[1].innerText.toLowerCase();
-    if (a.indexOf(input) > -1 || input === "") {
+    if (a.indexOf(input) > -1) {
         cards[i].style.display = "";
     } else {
         cards[i].style.display = "none";

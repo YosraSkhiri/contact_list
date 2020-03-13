@@ -40,8 +40,6 @@ nav{
     flex-direction: row;  
 }
 
-
-
 .search{
     border-bottom: 5px solid var(--primary-color);
     width: 400px;

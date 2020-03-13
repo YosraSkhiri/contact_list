@@ -57,7 +57,8 @@ nav{
     display: grid;
    justify-content: center;
     grid-template-columns: repeat(auto-fit, minmax(16em, 1fr));
-    gap: 20px;
+    grid-column-gap: 10px;
+  grid-row-gap: 50px;
     margin: 4em;
 }
 
@@ -116,6 +117,7 @@ nav{
 .info-title{
     font-weight: 500;
     font-size: .8rem;
+    opacity: .8;
 }
 
 .btn-contact{

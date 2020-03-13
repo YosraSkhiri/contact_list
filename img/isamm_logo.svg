@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 305.48 230.29">
+    <defs>
+        <style>
+            .b{fill:#0497d8}.d{fill:#1ab6eb}.k{fill:#000111}.m{fill:#111}
+        </style>
+    </defs>
+    <title>
+        ISAMM logo
+    </title>
+    <rect x="38.19" y="77.55" width="38.19" height="38.19" style="fill:#1398e2"/>
+    <rect class="b" x="152.74" y="153.92" width="38.19" height="38.19"/>
+    <rect x="152.74" y="115.74" width="38.19" height="38.19" style="fill:#53bbed"/>
+    <rect class="d" x="152.74" y="77.55" width="38.19" height="38.19"/>
+    <rect x="114.56" y="153.92" width="38.19" height="38.19" style="fill:#73cef5"/>
+    <rect x="76.37" y="153.92" width="38.19" height="38.19" style="fill:#aedcdc"/>
+    <rect x="38.19" y="153.92" width="38.19" height="38.19" style="fill:#8dd2ca"/>
+    <rect class="d" x="76.37" y="192.11" width="38.19" height="38.19"/>
+    <rect y="115.74" width="38.19" height="38.19" style="fill:#d0e9eb"/>
+    <rect x="190.93" y="153.92" width="38.19" height="38.19" style="fill:#acdfe9"/>
+    <rect class="d" x="267.3" y="153.92" width="38.19" height="38.19"/>
+    <rect x="229.11" y="115.74" width="38.19" height="38.19" style="fill:#51bced"/>
+    <circle class="b" cx="233.04" cy="138.64" r="58.27" transform="translate(-157.04 180.45) rotate(-45)"/>
+    <path class="k" d="M233,86.46a52.18,52.18,0,1,1-52.18,52.18A52.23,52.23,0,0,1,233,86.46m0-12.18a64.36,64.36,0,1,0,64.36,64.36A64.35,64.35,0,0,0,233,74.28Z" transform="translate(-127.26 -24.94)"/>
+    <circle class="k" cx="105.78" cy="113.7" r="23.67"/>
+    <circle cx="117.86" cy="106.97" r="4.06" style="fill:#fff"/>
+    <path class="m" d="M351.08,115s-57.21-90.75-181.5-63.79L162.34,63S264.27,35.39,330.7,115Z" transform="translate(-127.26 -24.94)"/>
+    <path class="m" d="M158.21,140.68,165.45,121s-23.68-38.14-17.76-96L135.85,36.12S127.3,88.06,158.21,140.68Z" transform="translate(-127.26 -24.94)"/>
+</svg>
